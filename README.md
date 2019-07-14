@@ -1,7 +1,11 @@
 # HelloWorld
 Hello World Project
 
+### This project is created for a few reasons:
+1. Learn Java
+2. Learn Github practices ( creating a repo, uploading, pulling, adding, committing, merging, etc ).
+3. Contribute to Open Source
+4. Have fun !
 
-#### a simple yet very fundamental `java` file, that any _programmer_ writes as a first program.
-
-#### output of this file is: `Hello World`.
+### Objective
+1. Offer an easy way for new githubbers to learn how to contribute to projects.
